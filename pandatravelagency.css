@@ -1,0 +1,22 @@
+/*
+*Tara Frane
+*Due Date
+*Project Name and Description
+*/
+
+/* The Universal selector */
+
+*{ 
+
+}
+
+/* Body attributes here */
+
+body { background-color:gray
+
+} 
+#EasternState1 { width: 500px; height: 200px; }
+#EasternState2 { width: 400px; height 400px; float: right; }
+#Philadelphia1 { width: 300px; height 200px; float: right; }
+#PandaTravelAgency { font-size: 110%; }
+#phonenumber { font-size: 100%; }
